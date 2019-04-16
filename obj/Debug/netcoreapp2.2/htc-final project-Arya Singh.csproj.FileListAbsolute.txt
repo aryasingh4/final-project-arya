@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\htc-final project-Arya Singh\obj\Debug\netcoreapp2.2\htc-final project-Arya Singh.csprojAssemblyReference.cache
+C:\Users\User\Desktop\htc-final project-Arya Singh\obj\Debug\netcoreapp2.2\htc-final project-Arya Singh.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\htc-final project-Arya Singh\obj\Debug\netcoreapp2.2\htc-final project-Arya Singh.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\htc-final project-Arya Singh\obj\Debug\netcoreapp2.2\htc-final project-Arya Singh.AssemblyInfo.cs
+C:\Users\User\Desktop\htc-final project-Arya Singh\bin\Debug\netcoreapp2.2\htc-final project-Arya Singh.deps.json
+C:\Users\User\Desktop\htc-final project-Arya Singh\bin\Debug\netcoreapp2.2\htc-final project-Arya Singh.runtimeconfig.json
+C:\Users\User\Desktop\htc-final project-Arya Singh\bin\Debug\netcoreapp2.2\htc-final project-Arya Singh.runtimeconfig.dev.json
+C:\Users\User\Desktop\htc-final project-Arya Singh\bin\Debug\netcoreapp2.2\htc-final project-Arya Singh.dll
+C:\Users\User\Desktop\htc-final project-Arya Singh\bin\Debug\netcoreapp2.2\htc-final project-Arya Singh.pdb
+C:\Users\User\Desktop\htc-final project-Arya Singh\obj\Debug\netcoreapp2.2\htc-final project-Arya Singh.dll
+C:\Users\User\Desktop\htc-final project-Arya Singh\obj\Debug\netcoreapp2.2\htc-final project-Arya Singh.pdb
